@@ -38,20 +38,17 @@ VaultSweep will output a vulnerability scan report to the console and save it as
 Created by a security engineer to learn, share, and demonstrate practical Python and cybersecurity skills.  
 Feel free to use, contribute, or fork for your own learning!
 
----
 
 ## Acknowledgments
 
 - Uses the `wmi` Python library for Windows Management Instrumentation queries.
 - Inspired by common Windows security best practices and vulnerability scanning tools.
 
----
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
----
 
 ## License
 
