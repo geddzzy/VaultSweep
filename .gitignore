@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+.env/
+.env
+
+# Ignore VaultSweep generated reports
+vaultsweep_report.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other common ignores (optional)
+*.log
