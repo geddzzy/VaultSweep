@@ -96,6 +96,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 **Author:** geddzzy 
+
 **Copyright ©** 2025 geddzzy
 
 All rights reserved.
