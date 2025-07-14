@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Run the scanner with:
 
 ```bash
-python main.py
+python vaultsweep.py
 ```
 
 VaultSweep will output a vulnerability scan report to the console and save it as `vaultsweep_report.txt` in the current directory.
