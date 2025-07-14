@@ -12,14 +12,6 @@ __     __          _ _   ____
 
 VaultSweep is a Python tool that scans Windows systems for common security vulnerabilities and configuration issues. It helps users identify risks such as disabled firewalls, unencrypted drives, and missing security updates, generating actionable reports to improve system security.
 
-## Features
-
-- Collects system information (OS, hostname, processor)
-- Checks Windows Firewall status
-- Checks BitLocker encryption status
-- Modular design for easy extension
-- Generates detailed text reports
-
 ## Installation
 
 1. Clone the repository:
